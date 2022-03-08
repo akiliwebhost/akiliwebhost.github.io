@@ -178,7 +178,7 @@ header.shadow .logo{
     margin-right: auto;
     margin-left: auto;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(180px, auto));
+    grid-template-columns: repeat(auto-fit, minmax(200px, auto));
     gap: 1rem;
     margin-top: 2rem;
 }
@@ -189,7 +189,7 @@ header.shadow .logo{
 .box .box-img img{
     width: 100%;
     height: 100%;
-    object-fit: cover
+    object-fit: cover;
 }
 
 .box .box-img img:hover{
